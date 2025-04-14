@@ -1,4 +1,42 @@
-# BANK-CUSTOMER-CHURN-ANALYSIS
+# Table of Contents
+
+## Overview
+- [Project Description](#project-description)
+- [Business Problem](#business-problem)
+- [Business Objectives](#business-objectives)
+- [About the Dataset](#about-the-dataset)
+
+## Analysis Process
+- [Data Cleaning](#data-cleaning)
+  - [Handling Missing Values](#handling-missing-values)
+  - [Handling Duplicates](#handling-duplicates)
+  - [Handling Outliers](#handling-outliers)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Univariate Analysis](#univariate-analysis)
+  - [Bivariate Analysis](#bivariate-analysis)
+  - [Correlation Analysis](#correlation-analysis)
+
+## Insights and Findings
+- [Customer Demographics](#customer-demographics)
+- [Account Information](#account-information)
+- [Product Usage](#product-usage)
+- [Customer Satisfaction and Engagement](#customer-satisfaction-and-engagement)
+- [Churn Rate Analysis](#churn-rate-analysis)
+
+## Recommendations
+- [For Customer Retention](#for-customer-retention)
+- [For Product Strategy](#for-product-strategy)
+- [For Customer Service](#for-customer-service)
+
+## Conclusion
+- [Key Takeaways](#key-takeaways)
+- [Future Work](#future-work)
+
+## Resources
+- [Dataset Source](#dataset-source)
+- [Tools Used](#tools-used)
+
+## BANK-CUSTOMER-CHURN-ANALYSIS
 I analyzed a bank customer dataset to identify key churn drivers using SQL for data preparation, Power BI for visualization, and DAX for advanced calculations. Built an interactive dashboard to uncover actionable insights and support customer retention strategies.
 
 ##  Overview
